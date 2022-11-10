@@ -1,0 +1,45 @@
+1:	H	1:	started
+2:	H	1:	waiting
+3:	H	2:	started
+4:	H	2:	waiting
+5:	H	3:	started
+6:	H	3:	waiting
+7:	H	4:	started
+8:	H	4:	waiting
+9:	H	5:	started
+10:	H	5:	waiting
+11:	H	6:	started
+12:	H	6:	waiting
+13:	O	1:	started
+14:	O	1:	ready
+15:	O	1:	begin bonding
+16:	H	2:	begin bonding
+17:	H	1:	begin bonding
+18:	O	2:	started
+19:	H	1:	bonded
+20:	H	2:	bonded
+21:	O	1:	bonded
+22:	O	2:	ready
+23:	O	2:	begin bonding
+24:	H	3:	begin bonding
+25:	O	3:	started
+26:	H	4:	begin bonding
+27:	H	4:	bonded
+28:	O	2:	bonded
+29:	H	3:	bonded
+30:	O	3:	ready
+31:	O	3:	begin bonding
+32:	H	5:	begin bonding
+33:	H	6:	begin bonding
+34:	H	6:	bonded
+35:	H	5:	bonded
+36:	O	3:	bonded
+37:	O	3:	finished
+38:	H	5:	finished
+39:	O	1:	finished
+40:	H	2:	finished
+41:	O	2:	finished
+42:	H	4:	finished
+43:	H	1:	finished
+44:	H	6:	finished
+45:	H	3:	finished
